@@ -1,5 +1,5 @@
 # Number Guessing Game
-This is a simple Java program where players guess a randomly generated number between 1 and 100.
+"A simple Java-based Number Guessing Game where players attempt to guess a randomly generated number between 1 and 100 within 5 attempts. Tracks total rounds won and includes replay functionality."
 
 ## How to Play
 - Players have 5 attempts to guess the correct number.
